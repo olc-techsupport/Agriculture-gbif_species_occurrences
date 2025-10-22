@@ -1,4 +1,4 @@
-# NIFA GBIF Datasets for Lakota Lands
+# GBIF Datasets for Lakota Lands
 
 This repository provides instructions and examples for locating, querying, and downloading biodiversity occurrence data from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org) for species of cultural and ecological importance on or near Lakota lands — including the Pine Ridge, Rosebud, Standing Rock, and Cheyenne River reservations.
 
