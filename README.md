@@ -45,8 +45,8 @@ You can obtain occurrence data for these species within reservation boundaries u
 ### Option A: Interactive GBIF Download
 
 1. Visit [GBIF Occurrence Search](https://www.gbif.org/occurrence/search).  
-2. Search for a target species (e.g., *Prunus virginiana*).  
-3. Apply geographic filters by typing reservation names (e.g., “Pine Ridge Indian Reservation”) **or** drawing a bounding box on the map.  
+2. Search for a target species (for example, *Prunus virginiana*).  
+3. Apply geographic filters by typing reservation names (“Pine Ridge Indian Reservation”) **or** drawing a bounding box on the map.  
 4. Click **Download** → choose `SIMPLE_CSV` format.  
 5. Repeat for other species.
 
