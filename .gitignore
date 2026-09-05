@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local GBIF snapshots and generated notebook outputs
+/data/
+/outputs/
+.env.*
+!.env.example
+.netrc
+_netrc
+.DS_Store
+Thumbs.db

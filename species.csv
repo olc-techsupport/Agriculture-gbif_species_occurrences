@@ -1,0 +1,7 @@
+common_name,queried_name,matched_name,matched_key,accepted_name,accepted_key,match_type,matched_status,checked_utc,cultural_context
+Chokecherry,Prunus virginiana,Prunus virginiana L.,3022668,Prunus virginiana L.,3022668,EXACT,ACCEPTED,2026-09-05T18:09:56.489573+00:00,Project starting selection; community-approved context/source to be added
+American bison,Bison bison,"Bison bison (Linnaeus, 1758)",2441176,"Bison bison (Linnaeus, 1758)",2441176,EXACT,ACCEPTED,2026-09-05T18:09:57.495781+00:00,Project starting selection; community-approved context/source to be added
+Prairie turnip,Pediomelum esculentum,Pediomelum esculentum (Pursh) Rydb.,2944105,Pediomelum esculentum (Pursh) Rydb.,2944105,EXACT,ACCEPTED,2026-09-05T18:09:58.472579+00:00,Project starting selection; community-approved context/source to be added
+Black-billed magpie,Pica hudsonia,"Pica hudsonia (Sabine, 1823)",5229487,"Pica hudsonia (Sabine, 1823)",5229487,EXACT,ACCEPTED,2026-09-05T18:09:59.521795+00:00,Project starting selection; community-approved context/source to be added
+Black-tailed prairie dog,Cynomys ludovicianus,"Cynomys ludovicianus (Ord, 1815)",2437232,"Cynomys ludovicianus (Ord, 1815)",2437232,EXACT,ACCEPTED,2026-09-05T18:10:00.518927+00:00,Project starting selection; community-approved context/source to be added
+Black-footed ferret,Mustela nigripes,"Mustela nigripes (Audubon & Bachman, 1851)",5218985,"Mustela nigripes (Audubon & Bachman, 1851)",5218985,EXACT,ACCEPTED,2026-09-05T18:10:01.576149+00:00,Project starting selection; community-approved context/source to be added

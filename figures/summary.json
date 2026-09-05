@@ -1,0 +1,16 @@
+{
+  "retrieved_records": 164,
+  "mapped_records": 164,
+  "excluded_locally": 0,
+  "duplicate_keys_removed": 0,
+  "missing_event_date": 0,
+  "missing_year": 0,
+  "missing_coordinate_uncertainty": 31,
+  "uncertainty_above_10km": 7,
+  "earliest_year": 1964,
+  "latest_year": 2025,
+  "record_types": {
+    "HUMAN_OBSERVATION": 100,
+    "PRESERVED_SPECIMEN": 64
+  }
+}
